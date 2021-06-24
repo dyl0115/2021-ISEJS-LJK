@@ -182,7 +182,7 @@ def button_click(event,x,y,flags,param):
 
 def run():        
 
-    green_light_time = 23
+    green_light_time = 20
     max_green_light_time = 100
     red_light_time = 18
 
